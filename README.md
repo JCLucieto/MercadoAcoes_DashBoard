@@ -1,7 +1,7 @@
 # MercadoAcoes_DashBoard
 Análise do Mercado de Ações Nasdaq e NYSE
 
-Contexto
+Contexto  
 Com o início de um novo período de governo de Donald Trump nos Estados Unidos e motivado por suas 
 declarações no dia da posse (21.01.2025) sobre medidas para a área de Tecnologia, especialmente em 
 relação à Inteligência Artificial, iniciei um trabalho de coleta, preparação e análise de dados do 
