@@ -29,7 +29,7 @@ Acesse gratuitamente por 60 dias através do Microsoft Fabric Free.
 Abaixo você encontra o link para esse relatório :
 https://app.powerbi.com/links/Ks5_xIuvCE?ctid=2f112f84-2ad4-4280-a7bf-c2af515a2c36&pbi_source=linkShare&bookmarkGuid=79d57fe6-9af1-4fea-815b-aea4fcf28741
 
-### Empresas Aalisadas  
+### Empresas Analisadas  
 As 12 principais empresas de tecnologia listadas na NASDAQ e na Bolsa de Valores de Nova York (NYSE) são algumas das maiores e mais influentes do setor, com forte presença no mercado global. Elas incluem gigantes de várias áreas da tecnologia, como hardware, software, e-commerce, inteligência artificial, entre outros. Este trabalho traz uma análise sobre as ações dessas empresas, com base em seu valor de mercado e impacto na indústria.
 
 NASDAQ (National Association of Securities Dealers Automated Quotations)
