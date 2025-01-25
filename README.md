@@ -34,7 +34,7 @@ As 12 principais empresas de tecnologia listadas na NASDAQ e na Bolsa de Valores
 Elas incluem gigantes de várias áreas da tecnologia, como hardware, software, e-commerce, inteligência artificial, entre outros.  
 Este trabalho traz uma análise sobre as ações dessas empresas, com base em seu valor de mercado e impacto na indústria.  
 
-NASDAQ (National Association of Securities Dealers Automated Quotations)  
+**NASDAQ (National Association of Securities Dealers Automated Quotations)**  
 
 Apple (AAPL) – Líder em eletrônicos, como iPhones, iPads, Macs, e também no setor de serviços, com iCloud e Apple Music.  
 Microsoft (MSFT) – Conhecida por seus softwares como o Windows e Office, além de sua plataforma de nuvem Azure.  
@@ -47,7 +47,7 @@ Intel (INTC) – Principal fabricante de semicondutores, com chips para computad
 Adobe (ADBE) – Desenvolvedora de softwares para criação e edição de imagens, vídeos e design gráfico (Photoshop, Illustrator, etc.).  
 PayPal (PYPL) – Plataforma de pagamentos online, incluindo serviços como Venmo e Xoom.  
 
-NYSE (New York Stock Exchange)  
+**NYSE (New York Stock Exchange)**  
 
 IBM (IBM) – Pioneira em computadores e tecnologia, hoje focada em inteligência artificial e soluções corporativas de TI.  
 Oracle (ORCL) – Especialista em software corporativo, bancos de dados e soluções de nuvem.   
