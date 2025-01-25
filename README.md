@@ -60,7 +60,7 @@ Mapa : Market Activity - Stocks - Common Stock - Historical Quotes (Download His
 Tipo de Dados
 Foram coletados arquivos no formato CSV (um arquivo para cada empresa) com o movimento diário (Série Temporal) dos últimos 5 anos.
 
-Informações Trtadas
+Informações Trtadas  
 Este trabalho utiliza as seguintes informações existentes nos arquivos:
 - Data da Negociação
 - Valor na Abertura
