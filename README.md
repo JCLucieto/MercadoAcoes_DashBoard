@@ -56,9 +56,9 @@ Essas empresas dominam a tecnologia global, abrangendo diversos aspectos do merc
 de nuvem e soluções financeiras. Cada uma delas tem um impacto significativo na transformação digital e na economia mundial.
 
 ### Fonte de Dados  
-Os dados utilizados neste trabalho foram coletados no site da NASDAQ.
-URL   : https://www.nasdaq.com
-Mapa : Market Activity - Stocks - Common Stock - Historical Quotes (Download Historical Data)
+Os dados utilizados neste trabalho foram coletados no site da NASDAQ.  
+URL   : https://www.nasdaq.com  
+Mapa : Market Activity - Stocks - Common Stock - Historical Quotes (Download Historical Data)  
 
 ### Tipo de Dados  
 Foram coletados arquivos no formato CSV (um arquivo para cada empresa) com o movimento diário (Série Temporal) dos últimos 5 anos.
